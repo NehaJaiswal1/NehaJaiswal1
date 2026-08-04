@@ -184,11 +184,7 @@ your-email@gmail.com
 
 &nbsp;&nbsp;
 
-<a href="YOUR_PORTFOLIO_LINK">
 
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
-
-</a>
 
 </p>
 
