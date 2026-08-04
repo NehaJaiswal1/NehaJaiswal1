@@ -64,10 +64,9 @@ Currently working as a Software Engineer Intern while continuously improving my 
 ## 📫 Reach Me
 
 Email:
-your-email@gmail.com
+nehajaiswal694@gmail.com
 
 LinkedIn:
-(Add Later)
+https://www.linkedin.com/in/neha-jaiswal-736750359/
 
-Portfolio:
-(Add Later)
+
