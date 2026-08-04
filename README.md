@@ -1,72 +1,128 @@
-# Hi 👋, I'm Neha Jaiswal
+<h1 align="center">Hi 👋, I'm Neha Jaiswal</h1>
 
-## Software Engineer
+<h3 align="center">
+Software Engineer | Backend Developer | Full Stack Developer
+</h3>
 
-I am a Software Engineer passionate about building scalable backend applications, REST APIs, and full-stack web applications. I enjoy solving real-world problems through clean architecture and modern technologies.
+<p align="center">
+Building scalable backend applications using Node.js, NestJS and React.
+</p>
 
-Currently working as a Software Engineer Intern while continuously improving my backend engineering skills.
+---
+
+## 👩‍💻 About Me
+
+- 💼 Software Engineer Intern at **Macenza Technologies**
+- 🌱 Learning **Microservices, Docker, Redis, RabbitMQ & AWS**
+- 💻 Passionate about Backend Development
+- 🚀 Love building scalable REST APIs
+- 📫 Reach me at: **your-email@gmail.com**
 
 ---
 
 ## 🚀 Tech Stack
 
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
 ### Backend
 
-- Node.js
-- Express.js
-- NestJS
-- REST API
-- JWT Authentication
-- Redis
-- RabbitMQ
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
+
+---
 
 ### Frontend
 
-- React.js
-- Tailwind CSS
-- JavaScript
-- HTML
-- CSS
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css)
+
+---
 
 ### Database
 
-- MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+
+---
+
+### Messaging
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq)
+
+---
 
 ### DevOps
 
-- Docker
-- Git
-- GitHub
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
 ---
 
-## 🌱 Currently Learning
+## 📈 GitHub Stats
 
-- Microservices
-- System Design
-- Docker
-- Redis
-- RabbitMQ
-- NestJS
-- AWS
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
 ---
 
-## 📌 Interested In
+## 🔥 Contribution Streak
 
-- Backend Development
-- API Development
-- Full Stack Development
-- Distributed Systems
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
 
 ---
 
-## 📫 Reach Me
+## 📊 Contribution Graph
 
-Email:
-nehajaiswal694@gmail.com
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github)
 
-LinkedIn:
-https://www.linkedin.com/in/neha-jaiswal-736750359/
+---
 
+## 🚀 Featured Projects
 
+### 🏨 Hotel Management System
+
+Node.js • React • MongoDB • Redis
+
+- JWT Authentication
+- Room Booking
+- Dashboard
+- Reports
+- Admin Panel
+
+---
+
+### 🚗 Inventory Management System
+
+NestJS • MongoDB • RabbitMQ • Redis
+
+- Product Management
+- Inventory
+- Categories
+- Orders
+- Authentication
+
+---
+
+### 🛒 E-Commerce Authentication
+
+Node.js • Redis • SMTP
+
+- Email OTP
+- JWT Login
+- Password Reset
+- User Verification
+
+---
+
+⭐ Thank you for visiting my profile!
