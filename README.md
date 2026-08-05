@@ -52,7 +52,7 @@ Passionate about building scalable backend applications using Node.js, NestJS, R
 
 📫 Email
 
-your-email@gmail.com
+nehajaiswal694@gmail.com
 
 ---
 
