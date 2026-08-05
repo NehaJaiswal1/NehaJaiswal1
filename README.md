@@ -148,15 +148,13 @@ nehajaiswal694@gmail.com
 # 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href=["https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/neha-jaiswal-736750359/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
 
 &nbsp;&nbsp;
-
-<a href="mailto:your-email@gmail.com">
-
+<a href="mailto:nehajaiswal694@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 
 </a>
