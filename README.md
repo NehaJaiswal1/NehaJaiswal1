@@ -148,9 +148,7 @@ nehajaiswal694@gmail.com
 # 🤝 Connect With Me
 
 <p align="center">
-
 <a href="https://linkedin.com/in/your-linkedin">
-
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
