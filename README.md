@@ -152,13 +152,10 @@ nehajaiswal694@gmail.com
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
-
 &nbsp;&nbsp;
-<a href="mailto:nehajaiswal694@gmail.com">
+<a href="nehajaiswal694@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-
 </a>
-
 &nbsp;&nbsp;
 
 
