@@ -206,7 +206,6 @@ Open To:
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=NehaJaiswal1&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -305,21 +304,6 @@ Open To:
 - 🚀 System Design
 - 🚀 Data Structures & Algorithms
 
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Backend Development
-- ✅ Learn System Design
-- ✅ Build Scalable REST APIs
-- ✅ Learn AWS Cloud
-- ✅ Master Docker
-- ✅ Learn Kubernetes
-- ✅ Solve 300+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Get a Remote Backend Developer Job
-
----
 
 # 💼 Open To Work
 
