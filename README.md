@@ -11,12 +11,12 @@ Hi 👋, I'm Neha Jaiswal
 </h1>
 
 <h3 align="center">
-Backend Developer | Node.js | NestJS | REST APIs | MongoDB
+FullStack Developer | Node.js | React.js | Typescript| NestJS | REST APIs | MongoDB
 </h3>
 
 <p align="center">
 Passionate about building scalable backend applications using
-Node.js, NestJS, MongoDB and modern backend technologies.
+Node.js,ReactJS, Typescript, NestJS, MongoDB and modern technologies.
 </p>
 
 ---
@@ -27,19 +27,20 @@ Node.js, NestJS, MongoDB and modern backend technologies.
 Name: Neha Jaiswal
 
 Role:
-  Backend Developer
+FullStack Developer
 
 Currently Working:
   Software Engineer Intern
 
 Currently Learning:
   - Node.js
+  = React.js
+  - Typescript
   - NestJS
   - Microservices
   - Docker
   - Redis
   - RabbitMQ
-  - AWS
   - System Design
 
 Interested In:
@@ -51,7 +52,7 @@ Interested In:
   - Scalable Systems
 
 Looking For:
-  Backend Developer Opportunities
+  FullStack Developer Opportunities
 
 Open To:
   Remote
@@ -110,7 +111,7 @@ Open To:
 
 # 💡 Quick Facts
 
-- 💻 Backend Developer
+- 💻 FullStack Developer
 
 - 🌱 Always learning new technologies
 
@@ -192,11 +193,8 @@ Open To:
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NehaJaiswal1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaJaiswal1&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -204,7 +202,6 @@ Open To:
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=NehaJaiswal1&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -259,15 +256,7 @@ Open To:
 </p>
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NehaJaiswal1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -277,7 +266,7 @@ Open To:
 
 </p>
 
-> ⚠️ **Note:** Snake animation tabhi dikhegi jab GitHub Action configure karoge. Main baad me uski setup bhi bata dunga.
+
 
 ---
 
@@ -299,7 +288,7 @@ Open To:
 - 🚀 Redis
 - 🚀 RabbitMQ
 - 🚀 Docker
-- 🚀 AWS
+- 🚀 React.js
 - 🚀 Microservices
 - 🚀 System Design
 - 🚀 Data Structures & Algorithms
@@ -329,7 +318,7 @@ Open To:
 - REST APIs
 - MongoDB
 - MySQL
-- PostgreSQL
+- React.js
 - Redis
 - Docker
 - Git
