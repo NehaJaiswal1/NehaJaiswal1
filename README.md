@@ -1,13 +1,45 @@
-<!-- Banner -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Neha%20Jaiswal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://raw.githubusercontent.com/NehaJaiswal1/NehaJaiswal1/main/assets/backend-banner.png" width="100%" alt="Backend Banner">
 </p>
 
-<h1 align="center">
-Hi 👋, I'm Neha Jaiswal
-</h1>
+<h1 align="center">Hi 👋, I'm Neha Jaiswal</h1>
 
+<h3 align="center">
+Backend Developer | Node.js | NestJS | MongoDB | Redis | Docker
+</h3>
+
+<p align="center">
+Passionate about building scalable backend applications, REST APIs,
+Authentication, Microservices and Cloud Solutions.
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 💼 Software Engineer Intern
+- 🌱 Currently learning **Microservices, Docker, Redis, RabbitMQ, AWS**
+- 💻 Backend Developer
+- 🚀 Building scalable REST APIs
+- ❤️ Love Node.js & NestJS
+
+---
+
+## 🛠 Languages & Tools
+
+<!-- Yaha tumhare icons rahenge -->
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Stats code -->
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Project Cards -->
 <h3 align="center">
 Software Engineer | Backend Developer | Full Stack Developer
 </h3>
@@ -19,64 +51,6 @@ Passionate about building scalable backend applications using Node.js, NestJS, R
 ---
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-## 👩‍💻 About Me
-
-💼 Software Engineer Intern at **Macenza**
-
-🌱 Currently learning
-
-- Microservices
-- Docker
-- Redis
-- RabbitMQ
-- AWS
-
-💻 Interested in
-
-- Backend Development
-- Full Stack Development
-- Scalable APIs
-- System Design
-
-🚀 Current Tech Stack
-
-- Node.js
-- Express.js
-- NestJS
-- React.js
-- MongoDB
-- Redis
-- RabbitMQ
-- Docker
-
-📫 Email
-
-nehajaiswal694@gmail.com
-
----
-
-# 🚀 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,nestjs,react,mongodb,redis,docker,git,github,tailwind,vscode,postman"/>
-
-</p>
-
----
-
-
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=NehaJaiswal1&theme=tokyonight"/>
-
-</p>
-
----
 
 
 # 📈 Contribution Graph
