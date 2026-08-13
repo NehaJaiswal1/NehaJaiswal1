@@ -2,7 +2,7 @@
 <!--        BANNER            -->
 <!-- ========================= -->
 <p align="center">
-  <img src="assets/backend-banner.png" alt="Backend Developer Banner" width="100%">
+  <img src="assets/banner.png" alt="Backend Developer Banner" width="100%">
 </p>
 
 
@@ -11,7 +11,7 @@ Hi 👋, I'm Neha Jaiswal
 </h1>
 
 <h3 align="center">
-FullStack Developer | Node.js | React.js | Typescript| NestJS | REST APIs | MongoDB
+Software Engineer | Node.js | React.js | Typescript| NestJS | REST APIs | MongoDB
 </h3>
 
 <p align="center">
@@ -27,10 +27,10 @@ Node.js,ReactJS, Typescript, NestJS, MongoDB and modern technologies.
 Name: Neha Jaiswal
 
 Role:
-FullStack Developer
+Software Developer
 
 Currently Working:
-  Software Engineer Intern
+Software Engineer Intern
 
 Currently Learning:
   - Node.js
@@ -52,7 +52,7 @@ Interested In:
   - Scalable Systems
 
 Looking For:
-  FullStack Developer Opportunities
+ Software Enginner Opportunities | FullStack Developer Opportunities
 
 Open To:
   Remote
