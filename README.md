@@ -11,7 +11,7 @@ Hi 👋, I'm Neha Jaiswal
 </h1>
 
 <h3 align="center">
-Software Engineer | Node.js | React.js | Typescript| NestJS | REST APIs | MongoDB
+Software Engineer | Node.js | React.js | Typescript| REST APIs | MongoDB
 </h3>
 
 <p align="center">
@@ -38,7 +38,6 @@ Currently Learning:
   - Typescript
   - NestJS
   - Microservices
-  - Docker
   - Redis
   - RabbitMQ
   - System Design
@@ -140,8 +139,6 @@ Open To:
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -152,7 +149,6 @@ Open To:
 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
 
@@ -283,11 +279,9 @@ Open To:
 # 🌱 Currently Learning
 
 - 🚀 Node.js
-- 🚀 NestJS
 - 🚀 TypeScript
 - 🚀 Redis
 - 🚀 RabbitMQ
-- 🚀 Docker
 - 🚀 React.js
 - 🚀 Microservices
 - 🚀 System Design
@@ -300,8 +294,6 @@ Open To:
 
 ✔ Node.js Developer
 
-✔ NestJS Developer
-
 ✔ Software Engineer
 
 ✔ Remote Opportunities
@@ -313,14 +305,12 @@ Open To:
 # 💬 Ask Me About
 
 - Node.js
-- NestJS
 - Express.js
 - REST APIs
 - MongoDB
 - MySQL
 - React.js
 - Redis
-- Docker
 - Git
 - GitHub
 
