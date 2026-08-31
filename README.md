@@ -11,12 +11,12 @@ Hi 👋, I'm Neha Jaiswal
 </h1>
 
 <h3 align="center">
-Software Engineer | Node.js | React.js | Typescript| REST APIs | MongoDB
+FullStack Developer | Node.js | React.js | Java | REST APIs | MongoDB
 </h3>
 
 <p align="center">
 Passionate about building scalable backend applications using
-Node.js,ReactJS, Typescript, NestJS, MongoDB and modern technologies.
+Node.js,ReactJS, Java, MYSQL, MongoDB and modern technologies.
 </p>
 
 ---
@@ -27,18 +27,16 @@ Node.js,ReactJS, Typescript, NestJS, MongoDB and modern technologies.
 Name: Neha Jaiswal
 
 Role:
-Software Developer
+FullStack Developer
 
 Currently Working:
 Software Engineer Intern
 
 Currently Learning:
   - Node.js
-  = React.js
-  - Typescript
-  - NestJS
   - Microservices
-  - Redis
+  - Java
+  - React.js
   - RabbitMQ
   - System Design
 
@@ -160,7 +158,7 @@ Open To:
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java"/>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
 
@@ -294,7 +292,7 @@ Open To:
 
 ✔ Node.js Developer
 
-✔ Software Engineer
+✔ Java FullStack Developer
 
 ✔ Remote Opportunities
 
@@ -310,7 +308,7 @@ Open To:
 - MongoDB
 - MySQL
 - React.js
-- Redis
+- Java
 - Git
 - GitHub
 
