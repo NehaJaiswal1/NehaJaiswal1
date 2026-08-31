@@ -30,7 +30,7 @@ Role:
 FullStack Developer
 
 Currently Working:
-Software Engineer Intern
+FullStack Developer Intern
 
 Currently Learning:
   - Node.js
@@ -125,7 +125,7 @@ Open To:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,react,nextjs,mongodb,mysql,postgres,redis,docker,git,github,postman,vscode,html,css&perline=9"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,express,react,mongodb,mysql,git,github,postman,vscode,html,css&perline=9"/>
 
 </p>
 
