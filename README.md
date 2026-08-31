@@ -125,7 +125,7 @@ Open To:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,express,react,mongodb,mysql,git,github,postman,vscode,html,css&perline=9"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,java,express,react,mongodb,mysql,git,github,postman,vscode,html,css&perline=9"/>
 
 </p>
 
@@ -134,6 +134,7 @@ Open To:
 # ⚙ Backend Skills
 
 <p align="center">
+<img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
@@ -143,9 +144,7 @@ Open To:
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 
 </p>
@@ -157,8 +156,6 @@ Open To:
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java"/>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
 
