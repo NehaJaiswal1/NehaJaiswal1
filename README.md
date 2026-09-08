@@ -11,7 +11,7 @@ Hi 👋, I'm Neha Jaiswal
 </h1>
 
 <h3 align="center">
-FullStack Developer | Node.js | React.js | Java | REST APIs | MongoDB
+FullStack Developer | Node.js | React.js | REST APIs | MongoDB | SQL
 </h3>
 
 <p align="center">
@@ -35,9 +35,7 @@ FullStack Developer Intern
 Currently Learning:
   - Node.js
   - Microservices
-  - Java
   - React.js
-  - RabbitMQ
   - System Design
 
 Interested In:
@@ -118,14 +116,14 @@ Open To:
 
 - 🚀 Goal: Become a Product-Based Company Backend Engineer
 
-- 📍 Lucknow, India
+- 📍 Varanasi, India
 ---
 
 # 🛠 Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,java,express,react,mongodb,mysql,git,github,postman,vscode,html,css&perline=9"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,git,github,postman,vscode,html,css&perline=9"/>
 
 </p>
 
@@ -134,7 +132,6 @@ Open To:
 # ⚙ Backend Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
@@ -275,8 +272,6 @@ Open To:
 
 - 🚀 Node.js
 - 🚀 TypeScript
-- 🚀 Redis
-- 🚀 RabbitMQ
 - 🚀 React.js
 - 🚀 Microservices
 - 🚀 System Design
@@ -288,8 +283,6 @@ Open To:
 ✔ Backend Developer
 
 ✔ Node.js Developer
-
-✔ Java FullStack Developer
 
 ✔ Remote Opportunities
 
@@ -305,7 +298,6 @@ Open To:
 - MongoDB
 - MySQL
 - React.js
-- Java
 - Git
 - GitHub
 
