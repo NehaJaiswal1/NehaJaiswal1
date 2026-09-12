@@ -2,7 +2,7 @@
 <!--        BANNER            -->
 <!-- ========================= -->
 <p align="center">
-  <img src="assets/bn.png" alt="Backend Developer Banner" width="100%">
+  <img src="assets/bn1.png" alt="Backend Developer Banner" width="100%">
 </p>
 
 
